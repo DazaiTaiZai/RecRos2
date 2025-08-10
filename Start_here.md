@@ -1,5 +1,5 @@
 # What must a good man do with ROS?
-a good man shall leave the thought of doing ros for a bout a week straight and than come back to chatgpt for OOP tips.
+a good man shall leave the thought of doing ros for a bout a week straight and then come back to chatgpt for OOP tips.
 
 # How to start ROS?
 TO start Ros you must have some background in python and some linux command shell(optional , you will learn along the way)
